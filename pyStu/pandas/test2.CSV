@@ -1,0 +1,9 @@
+name,number,size,level,weight,place_of_production
+A,10,919,s,90,factory-A
+B,30,223,a,30,factory-A
+C,150,33,d,210,factory-B
+D,2000,32,b,199,factory-F
+E,5,2999,s,140,factory-M
+F,1000,2,d,200,factory-F
+G,1200,201,d,1021,factory-F
+H,15,3220,s,192,factory-M
